@@ -16,9 +16,9 @@ export default function Header() {
           <Link to="/" className={styles.activeNavItemLink}>
             首页
           </Link>
-          <Link to="/" className={styles.navItemLink}>
+          <a href="https://94275.cn/" className={styles.navItemLink}>
             更多
-          </Link>
+          </a>
         </li>
       </ul>
     </div>
