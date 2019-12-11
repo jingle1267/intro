@@ -5,6 +5,6 @@
 - 启动调试服务: `npm start`
 - 构建 dist: `npm run build`
 
-## 效果图
+## 效果
 
-![screenshot](https://img.alicdn.com/tfs/TB1npsvdSzqK1RjSZFpXXakSXXa-2860-1580.png)
+[https://94275.cn/intro/](https://94275.cn/intro/)
